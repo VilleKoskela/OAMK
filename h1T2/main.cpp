@@ -1,10 +1,20 @@
 #include <iostream>
+#include <iomanip>
+#include <stdexcept>
 
 using namespace std;
 
+
+int main(){
+
+    return 0;
+}
+
+/*
 int laskeNelio(int);
 
 int main()
+
 {
     int annettu_luku;
     int luvun_nelio;
@@ -14,7 +24,7 @@ int main()
     cout<<"Luvun " <<annettu_luku<<" nelio on "<<luvun_nelio<<endl;
     return 0;
 }
-
 int laskeNelio(int value){
     return value*value;
 }
+*/
