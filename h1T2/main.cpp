@@ -4,13 +4,6 @@
 
 using namespace std;
 
-
-int main(){
-
-    return 0;
-}
-
-/*
 int laskeNelio(int);
 
 int main()
@@ -27,4 +20,4 @@ int main()
 int laskeNelio(int value){
     return value*value;
 }
-*/
+
