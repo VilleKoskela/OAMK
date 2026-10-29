@@ -1,4 +1,4 @@
-# Install script for directory: E:/OAMK/GitHub/OAMK/Olio
+# Install script for directory: E:/OAMK/GitHub/OAMK/H1T1
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
